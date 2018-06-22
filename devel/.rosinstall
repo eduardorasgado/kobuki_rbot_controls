@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/canix/ros-basics-ria/kobuki_rbot/devel/setup.sh
